@@ -2452,11 +2452,8 @@ responsive
 @media (max-width: 767px) {
 
   #footer{
-    /* padding-top: 35px; */
+     padding-top: 90px;
     /* margin-top: -50px; */
-  }
-	.footer{
-    padding-top: 20px;
   }
 
   .main-banner img{
